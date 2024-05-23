@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rizwan969
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...
+- 👋 Hi, I’m @Rizwan
+- 👀 
+- 🌱 I’m currently doing major in Computer Science
+- 💞️ I’m looking to collaborate on projects..
+- 📫 drop a mail on rizwanzahidpervez2015@gmail.com
 - 
 
 <!---
